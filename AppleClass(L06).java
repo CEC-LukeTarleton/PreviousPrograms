@@ -1,3 +1,4 @@
+//Made by KLT
 public class Apple {
 	private String type;
 	private double price;
